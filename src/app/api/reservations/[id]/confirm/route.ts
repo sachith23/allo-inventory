@@ -13,7 +13,7 @@ export async function POST(
   const idempotencyKey = req.headers.get("Idempotency-Key");
 
   try {
-    const { data, status } = await withIdempotency(
+    const { data, status } = await withIdempotency<Record<string, unknown>>(
       idempotencyKey,
       async () => {
         const reservation = await prisma.reservation.findUnique({
