@@ -2,8 +2,8 @@
 
 A Next.js inventory reservation platform that handles concurrent checkout flows without overselling stock.
 
-**Live URL:** _[fill in after deploy]_  
-**GitHub:** _[fill in after push]_
+**Live URL:** _[https://allo-inventory-proj.vercel.app/]_  
+**GitHub:** _[https://github.com/sachith23/allo-inventory]_
 
 ---
 
