@@ -1,4 +1,4 @@
-# Allo Inventory — Take-Home Exercise
+# Allo Inventory
 
 A Next.js inventory reservation platform that handles concurrent checkout flows without overselling stock.
 
