@@ -18,7 +18,7 @@ A Next.js inventory reservation platform that handles concurrent checkout flows 
 
 ```bash
 # 1. Clone and install
-git clone <your-repo-url>
+git clone https://github.com/sachith23/allo-inventory
 cd allo-inventory
 npm install
 
