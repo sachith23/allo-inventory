@@ -30,6 +30,7 @@
     "seed": "tsx prisma/seed.ts"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.19",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
